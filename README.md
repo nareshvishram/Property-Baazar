@@ -50,6 +50,19 @@ Tenant can see following information about brokers:
 -> Broker’s Name
 -> Broker’s Contact Information
 
+![property1](https://user-images.githubusercontent.com/58872658/98257622-ed865200-1fa5-11eb-84de-19122a29099e.JPG)
+![property2](https://user-images.githubusercontent.com/58872658/98257626-ef501580-1fa5-11eb-9932-abdef2b847b2.JPG)
+![property3](https://user-images.githubusercontent.com/58872658/98257636-f24b0600-1fa5-11eb-845c-1bc7003d21f6.JPG)
+![property4](https://user-images.githubusercontent.com/58872658/98257640-f37c3300-1fa5-11eb-9246-7ca4d0800e69.JPG)
+![property5](https://user-images.githubusercontent.com/58872658/98257647-f5de8d00-1fa5-11eb-8e95-2a6c4d112ff6.JPG)
+![property6](https://user-images.githubusercontent.com/58872658/98257651-f6772380-1fa5-11eb-8e9c-6f09400a09ff.JPG)
+![property7](https://user-images.githubusercontent.com/58872658/98257664-faa34100-1fa5-11eb-8fd1-0c1100d7bd18.JPG)
+![property8](https://user-images.githubusercontent.com/58872658/98257669-fbd46e00-1fa5-11eb-97ca-1cce68baaa4c.JPG)
+![property9](https://user-images.githubusercontent.com/58872658/98257674-fd059b00-1fa5-11eb-91da-15fcbfa4c8f1.JPG)
+![property10](https://user-images.githubusercontent.com/58872658/98257683-fd9e3180-1fa5-11eb-96b5-db4d0b4ec465.JPG)
+![property11](https://user-images.githubusercontent.com/58872658/98257688-fecf5e80-1fa5-11eb-843c-dff7bfc19a4d.JPG)
+![proptery1](https://user-images.githubusercontent.com/58872658/98257695-00008b80-1fa6-11eb-9a3a-fc457d5147c3.JPG)
+
 # SYSTEM ANALYSIS
 
 # 2.1 INTRODUCTION
